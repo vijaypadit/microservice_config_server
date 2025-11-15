@@ -1,6 +1,6 @@
 spring:
   application:
-    name: fonfig-default
+    name: fonfig-prod
 
 
 
